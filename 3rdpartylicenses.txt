@@ -116,7 +116,11 @@ THE SOFTWARE.
 
 @angular/material/menu
 
+@angular/material/progress-spinner
+
 @angular/material/select
+
+@angular/material/snack-bar
 
 @angular/platform-browser
 MIT
