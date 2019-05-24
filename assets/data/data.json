@@ -12138,16 +12138,6 @@
         "longitud": "-3.67384",
         "tarifa": "Normal"
     }, {
-        "alias": "0204410007",
-        "barrio": "44 GUINDALERA.",
-        "direccion": "AV. AMÉRICA Nº 14 frente a la caixa",
-        "empresa": "Devas 2",
-        "estado": "activo",
-        "fabricante": "Parkare",
-        "latitud": "40.438422",
-        "longitud": "-3.675361",
-        "tarifa": "Normal"
-    }, {
         "alias": "0109330992",
         "barrio": "93 CIUDAD UNIVERSITARIA.",
         "direccion": "C/ ALMANSA No 105",
@@ -14676,6 +14666,16 @@
         "latitud": "40.454962",
         "longitud": "-3.693295",
         "tarifa": "ZBE"
+    }, {
+        "alias": "0106231132",
+        "barrio": "62 CUATRO CAMINOS.",
+        "direccion": "Calle Palencia 21",
+        "empresa": "Devas 1",
+        "estado": "activo",
+        "fabricante": "Parkeon",
+        "latitud": "40.449860",
+        "longitud": "-3.702126",
+        "tarifa": "Normal"
     }, {
         "alias": "0106330255",
         "barrio": "63 CASTILLEJOS.",
