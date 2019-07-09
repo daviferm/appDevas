@@ -76,6 +76,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
+@angular/cdk/scrolling
+
 @angular/common
 MIT
 
@@ -113,6 +115,8 @@ THE SOFTWARE.
 @angular/material/bottom-sheet
 
 @angular/material/button
+
+@angular/material/checkbox
 
 @angular/material/core
 
