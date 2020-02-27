@@ -506,8 +506,8 @@
     "empresa" : "Devas 1",
     "estado" : "activo",
     "fabricante" : "Parkeon",
-    "latitud" : "40.462434",
-    "longitud" : "-3.689966",
+    "latitud" : "40.46280553",
+    "longitud" : "-3.690122094",
     "tarifa" : "ZBE"
   }, {
     "alias" : "0106420569",
@@ -2126,8 +2126,8 @@
     "empresa" : "Devas 1",
     "estado" : "activo",
     "fabricante" : "Parkeon",
-    "latitud" : "40.456554",
-    "longitud" : "-3.697562",
+    "latitud" : "40.45646",
+    "longitud" : "-3.697194",
     "tarifa" : "ZBE"
   }, {
     "alias" : "0106230177",
@@ -6345,8 +6345,8 @@
     "empresa" : "Devas 1",
     "estado" : "activo",
     "fabricante" : "Parkeon",
-    "latitud" : "40.4536449",
-    "longitud" : "-3.6937113",
+    "latitud" : "40.453708",
+    "longitud" : "-3.693827",
     "tarifa" : "ZBE"
   }, {
     "alias" : "0106230218",
@@ -6475,8 +6475,8 @@
     "empresa" : "Devas 1",
     "estado" : "activo",
     "fabricante" : "Parkeon",
-    "latitud" : "40.463717",
-    "longitud" : "-3.693222",
+    "latitud" : "40.463949",
+    "longitud" : "-3.692977",
     "tarifa" : "ZBE"
   }, {
     "alias" : "0106420551",
@@ -12104,8 +12104,8 @@
     "empresa" : "Devas 1",
     "estado" : "activo",
     "fabricante" : "Parkeon",
-    "latitud" : "40.4549790",
-    "longitud" : "-3.7146670",
+    "latitud" : "40.455155",
+    "longitud" : "-3.714729",
     "tarifa" : "Normal"
   }, {
     "alias" : "0204410068",
@@ -14793,8 +14793,8 @@
     "empresa" : "Devas 1",
     "estado" : "activo",
     "fabricante" : "Parkeon",
-    "latitud" : "40.4628444",
-    "longitud" : "-3.6901054",
+    "latitud" : "40.46268532",
+    "longitud" : "-3.690168991",
     "tarifa" : "ZBE"
   }, {
     "alias" : "0106420568",
@@ -14936,7 +14936,17 @@
     "latitud" : "40.471021",
     "longitud" : "-3.696578",
     "tarifa" : "Normal"
-  }, null, {
+  }, {
+    "alias" : "0106420644",
+    "barrio" : "64 ALMENARA.",
+    "direccion" : "C/ San Aquilino, 9 esq Martires de la Ventilla",
+    "empresa" : "Devas 1",
+    "estado" : "activo",
+    "fabricante" : "WisePark",
+    "latitud" : "40.470054",
+    "longitud" : "-3.689635",
+    "tarifa" : "Normal"
+  }, {
     "alias" : "0106420629",
     "barrio" : "64 ALMENARA.",
     "direccion" : "C/ Ailanto, 40",
@@ -18482,8 +18492,8 @@
     "empresa" : "Devas 1",
     "estado" : "activo",
     "fabricante" : "Parkeon",
-    "latitud" : "40.448501",
-    "longitud" : "-3.712726",
+    "latitud" : "40.4494217",
+    "longitud" : "-3.7131020",
     "tarifa" : "Normal"
   }, {
     "alias" : "0109330963",
