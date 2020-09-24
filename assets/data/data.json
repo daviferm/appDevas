@@ -392,8 +392,8 @@
       "empresa" : "Devas 1",
       "estado" : "activo",
       "fabricante" : "Parkeon",
-      "latitud" : "40.45442",
-      "longitud" : "-3.6979",
+      "latitud" : "40.454210",
+      "longitud" : "-3.698013",
       "tarifa" : "ZBE"
     },
     "36" : {
@@ -414,8 +414,8 @@
       "empresa" : "Devas 1",
       "estado" : "activo",
       "fabricante" : "Parkeon",
-      "latitud" : "40.451256",
-      "longitud" : "-3.700083",
+      "latitud" : "40.4510992",
+      "longitud" : "-3.6996135",
       "tarifa" : "ZBE"
     },
     "38" : {
@@ -2449,8 +2449,8 @@
       "empresa" : "Devas 1",
       "estado" : "activo",
       "fabricante" : "Parkeon",
-      "latitud" : "40.455105",
-      "longitud" : "-3.69624",
+      "latitud" : "40.455039",
+      "longitud" : "-3.696957",
       "tarifa" : "ZBE"
     },
     "223" : {
@@ -4706,17 +4706,6 @@
       "fabricante" : "Parkeon",
       "latitud" : "40.432489",
       "longitud" : "-3.678594",
-      "tarifa" : "ZBE"
-    },
-    "428" : {
-      "alias" : "0204630262",
-      "barrio" : "46 CASTELLANA.",
-      "direccion" : "LOPEZ DE HOYOS, 9",
-      "empresa" : "Devas 2",
-      "estado" : "activo",
-      "fabricante" : "Parkeon",
-      "latitud" : "40.437017",
-      "longitud" : "-3.68742",
       "tarifa" : "ZBE"
     },
     "429" : {
@@ -17747,8 +17736,8 @@
       "empresa" : "Devas 1",
       "estado" : "activo",
       "fabricante" : "Parkeon",
-      "latitud" : "40.446649",
-      "longitud" : "-3.71404",
+      "latitud" : "40.446736",
+      "longitud" : "-3.713976",
       "tarifa" : "Normal"
     },
     "1614" : {

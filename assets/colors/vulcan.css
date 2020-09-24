@@ -1,0 +1,12 @@
+:root {
+    --nav-bg-color: rgba(52, 59, 63, 1.00);
+    --border-color: rgba(64, 81, 181, 1.00);
+}
+
+.color-nav {
+    background-color: var(--nav-bg-color);
+}
+
+.color-shadow {
+    box-shadow: 0 0 6px var(--border-color);
+}
