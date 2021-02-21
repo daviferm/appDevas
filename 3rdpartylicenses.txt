@@ -87,7 +87,11 @@ MIT
 @angular/fire
 MIT
 
+@angular/fire/database
+
 @angular/fire/firestore
+
+@angular/fire/storage
 
 @angular/forms
 MIT
@@ -147,10 +151,16 @@ Apache-2.0
 @firebase/component
 Apache-2.0
 
+@firebase/database
+Apache-2.0
+
 @firebase/firestore
 Apache-2.0
 
 @firebase/logger
+Apache-2.0
+
+@firebase/storage
 Apache-2.0
 
 @firebase/util
@@ -158,6 +168,9 @@ Apache-2.0
 
 @firebase/webchannel-wrapper
 Apache-2.0
+
+angularfire2/firestore
+MIT
 
 core-js
 MIT
@@ -184,7 +197,11 @@ THE SOFTWARE.
 
 firebase/app
 
+firebase/database
+
 firebase/firestore
+
+firebase/storage
 
 rxjs
 Apache-2.0
